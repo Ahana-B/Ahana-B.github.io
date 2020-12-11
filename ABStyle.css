@@ -132,8 +132,8 @@ section h2{
 	justify-content: center;
 }
 .left img{
-	width: 270px;
-	height: 400px;
+	width: 240px;
+	height: 420px;
 	align-items: center;
 	size: 30px;
 	padding-right: 20px;
@@ -205,8 +205,8 @@ section h2{
 	}
 	.left img{
 		padding-right: 3px;
-		height: 350px;
-		width: 220px;
+		height: 379px;
+		width: 199px;
 		align-items: center;
 	}
 }
