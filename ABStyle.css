@@ -209,6 +209,9 @@ section h2{
 		width: 199px;
 		align-items: center;
 	}
+	.about1{
+		height:60vh;
+	}
 }
 .subhead{
 	font-size: 30px;
