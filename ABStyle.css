@@ -218,6 +218,9 @@ section h2{
 		margin-bottom: 0;
 		padding-bottom: 3px;
 	}
+	.right h1{
+		font-size: 12px;
+	}
 }
 .subhead{
 	font-size: 30px;
