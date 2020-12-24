@@ -155,15 +155,16 @@ header{
 
 @media screen and (max-width: 450px){
 	.img-box1{
-		width: 30%;
-		height: 40%;
-		margin-top: 50px;
+		width: 25%;
+		height: 50%;
+		margin-top: 60px;
+		
 	}
 	.left1 h1{
 		font-size: 16px;
 	}
 	.left1 p{
-		font-size:11px;
+		font-size:10px;
 		line-height: 15px;
 	}
 }
