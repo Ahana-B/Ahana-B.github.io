@@ -55,7 +55,10 @@ header{
 @media screen and (max-width: 500px){
 	.nav__links li{
 	display:inline-block;
-	padding: 0px 7px;
+	padding: 0px 5px;
+	}
+	.nav__links li a{
+	font-size: 12px;
 	}
 }
 .hero{
@@ -152,8 +155,8 @@ header{
 
 @media screen and (max-width: 450px){
 	.img-box1{
-		width: 35%;
-		height: 50%;
+		width: 30%;
+		height: 40%;
 		margin-top: 50px;
 	}
 	.left1 h1{
